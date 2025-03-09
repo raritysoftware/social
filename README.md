@@ -1,4 +1,8 @@
 # Social 📱🌍  
+
+![logo](https://raw.githubusercontent.com/raritysoftware/social/refs/heads/main/assets/logo.png)
+- [logo perma link](https://raw.githubusercontent.com/raritysoftware/social/refs/heads/main/assets/logo.png)
+
 🚀 Rarity Software sosyal medya platformları  
 
 [![GitHub Repo Stars](https://img.shields.io/github/stars/raritysoftware/social?style=social)](https://github.com/raritysoftware/social)
